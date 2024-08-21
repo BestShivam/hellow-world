@@ -1,1 +1,1 @@
-this repo made practice and education purposes only.
+this repo for made practice and education purposes only.
